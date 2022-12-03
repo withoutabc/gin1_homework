@@ -1,1 +1,1 @@
-# 6th-homework-red
+# gin1_homework
